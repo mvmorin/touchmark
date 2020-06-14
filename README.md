@@ -2,6 +2,7 @@
 One-piece split, staggered column 40% keyboard. First prototyped on, and inspired by, the [Signum 3.0](http://troyfletcher.net/keyboard_sales.html#signum_30). Low profile and case-less yet still robust enough for travel. Designed in KiCad with symbols and footprints from [keyboard-parts](https://github.com/mvmorin/keyboard-parts) library.
 
 ![sideview](pictures/sideview.jpg)
+![pcb-front](pictures/pcb-front.png)
 
 # Features
 * Low profile and case-less.
