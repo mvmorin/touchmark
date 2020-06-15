@@ -16,11 +16,12 @@ One-piece split, staggered column 40% keyboard. First prototyped on, and inspire
 The PCB and plate are connected via the switches and standard 2.54 mm pin headers. The Teensy/ProMicro is mounted on the plate itself (or on the base PCB if no plate is used). Only through-hole soldering is necessary and all components are placed on the top of the PCB, leaving the bottom of the keyboard flat. It is recommended to cover the bottom with some soft rubber-like material, I glued on some black shelf liner. It is of course possible to use small rubber feet instead, but this will leave the PCB exposed. It also makes it harder to use on top of a laptop keyboard since the bottom then isn't completely flat.
 
 # PCB Files
-The gerber-files for the latest version of the base PCB and the plates are found in the *gerber* directory. For instructions on how to order, see the following [40percent.club post](http://www.40percent.club/2017/03/ordering-pcb.html). However, please read the **Known Issues** section below and be aware that the tolerances of PCB milling can be large.
+The gerber-files for the latest version of the base PCB and the plates are found in the *gerber* directory. For instructions on how to order, see the following [40percent.club](http://www.40percent.club/2017/03/ordering-pcb.html) post. However, please read the **Known Issues** section below and be aware that the tolerances of PCB milling can be large.
 
 # Known Issues
 * Alps cutouts are a little tight. About 60% of the cutouts in the test print needed filing.
-* Cherry stabilizer cutout too small. All cutouts in the test print needed filing to fit at all.
+* Cherry stabilizer cutout are tight but usable.
+
 
 # Future Updates
 Things I'm currently thinking about changing, but who knows when...
